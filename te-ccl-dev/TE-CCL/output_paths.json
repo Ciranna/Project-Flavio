@@ -1,0 +1,44 @@
+{
+"8-Chunk paths": {
+    "Demand at 0 for chunk 0 from 1 met by epoch 0": [
+      "1->0 in epoch 0"
+    ],
+    "Demand at 0 for chunk 0 from 2 met by epoch 0": [
+      "2->0 in epoch 0"
+    ],
+    "Demand at 0 for chunk 1 from 1 met by epoch 0": [
+      "1->0 in epoch 0"
+    ],
+    "Demand at 0 for chunk 1 from 2 met by epoch 0": [
+      "2->0 in epoch 0"
+    ],
+    "Demand at 1 for chunk 0 from 0 met by epoch 0": [
+      "0->1 in epoch 0"
+    ],
+    "Demand at 1 for chunk 0 from 2 met by epoch 1": [
+      "2->0 in epoch 0",
+      "0->1 in epoch 1"
+    ],
+    "Demand at 1 for chunk 1 from 0 met by epoch 0": [
+      "0->1 in epoch 0"
+    ],
+    "Demand at 1 for chunk 1 from 2 met by epoch 1": [
+      "2->0 in epoch 0",
+      "0->1 in epoch 1"
+    ],
+    "Demand at 2 for chunk 0 from 0 met by epoch 0": [
+      "0->2 in epoch 0"
+    ],
+    "Demand at 2 for chunk 0 from 1 met by epoch 1": [
+      "1->0 in epoch 0",
+      "0->2 in epoch 1"
+    ],
+    "Demand at 2 for chunk 1 from 0 met by epoch 0": [
+      "0->2 in epoch 0"
+    ],
+    "Demand at 2 for chunk 1 from 1 met by epoch 1": [
+      "1->0 in epoch 0",
+      "0->2 in epoch 1"
+    ]
+  }
+}
