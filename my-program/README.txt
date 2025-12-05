@@ -118,6 +118,3 @@ python3 analyze_makespan_size.py   --root ./output_pipeline   --outdir ./results
 
 python3 analyze_jain_size.py --root ./output_pipeline --outdir ./results_jain/
 
-
-
-ssh ciranna_1533717@192.168.0.102
